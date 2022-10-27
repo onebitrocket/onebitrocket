@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I like making websites, techical SEO and solving problems to help marketing teams.
+
+#### Ask me about
+
+- gulpJs
+- less
+- php
+- WordPress theme development
+- Hubspot CRM and CMS
+- Google Analytics
+- Google Search Console
+- Google Tag Manager
+- Google Marketing Platform
+- Enabling tracking services (LinkedIn, facebook, Twitter)
+
 <!--
 **onebitrocket/onebitrocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
