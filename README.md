@@ -14,8 +14,8 @@ I can help with your website, your techical SEO and solving problems to help you
 - eleventy
 - WordPress theme development
 - Hubspot CRM and CMS, including SalesForce integration
-- Google Analytics, Search Console, Tag Manager, Marketing Platform
-- Working with tracking services (LinkedIn, facebook, Twitter)
+- Google Analytics, Search Console, Tag Manager and Marketing Platform
+- Working with third-party services in Google Tag Manager (LinkedIn, Facebook, Twitter, CookieBot)
 
 <!--
 **onebitrocket/onebitrocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
