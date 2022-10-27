@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-I like making websites, techical SEO and solving problems to help marketing teams.
+I like making websites, getting them as fast as possible
+I can help with your website, your techical SEO and solving problems to help you and your marketing team.
 
 #### Ask me about
 
 - gulpJs
 - less
 - php
+- sendgrid
+- twilio
+- eleventy
 - WordPress theme development
-- Hubspot CRM and CMS
-- Google Analytics
-- Google Search Console
-- Google Tag Manager
-- Google Marketing Platform
-- Enabling tracking services (LinkedIn, facebook, Twitter)
+- Hubspot CRM and CMS, including SalesForce integration
+- Google Analytics, Search Console, Tag Manager, Marketing Platform
+- Working with tracking services (LinkedIn, facebook, Twitter)
 
 <!--
 **onebitrocket/onebitrocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
