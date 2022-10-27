@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I like making websites, getting them as fast as possible
+I like making websites, getting them as fast as possible and getting them optimised for Google search.
+
 I can help with your website, your techical SEO and solving problems to help you and your marketing team.
 
 #### Ask me about
